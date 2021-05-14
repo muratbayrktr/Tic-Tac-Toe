@@ -1,4 +1,4 @@
-# tic-tac-toe
+# ASCII-based tic-tac-toe game  
 A simple tic-tac-toe game  
 
 usage in unix systems:
